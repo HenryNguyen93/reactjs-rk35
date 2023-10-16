@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from 'react-dom/client'
-import './DashBoard.css'
+import "../components/Dashboard.css"
 import {
     HomeOutlined,
     LoadingOutlined,
