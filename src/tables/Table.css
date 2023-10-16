@@ -1,0 +1,24 @@
+
+.formRow{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    align-items: center;
+}
+.formContent{
+    width: 250px;
+}
+
+.ant-space-item:hover,.ant-tag:hover{
+    cursor: pointer;
+  }
+
+.formIcon{
+    margin-right: 5px;
+}  
+
+.errorForm{
+    color: red;
+    margin-top: 10px;
+    margin-left: 10px;
+}
